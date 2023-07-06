@@ -1,2 +1,3 @@
 # PhysicsExperiment
- An interesting program
+ An interesting program combining physics concepts.
+ 
